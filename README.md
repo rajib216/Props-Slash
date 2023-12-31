@@ -1,1 +1,2 @@
 # Props-Slash
+This repository contains the **Props Slash**, a 2.5D game developed on Unity. The gameplay is much like that of the **Fruit Ninja** but with limited features. The **Props Slash.exe** file can be downlaoded to play the game on desktop whereas the **Props Slash.apk** file is for Android gameplay which can be downloaded directly into an Android phone (**No installations required**). Enjoy the game!   
